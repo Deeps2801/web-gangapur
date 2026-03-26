@@ -623,4 +623,14 @@ section {
   font-weight: 600;
   transition: 0.3s;
 }
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 58px;   /* adjust size */
+  height: auto;
+  object-fit: contain;
+}
 /*  */
